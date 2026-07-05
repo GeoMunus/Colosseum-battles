@@ -91,14 +91,96 @@ jerks/works), prechorus pairs (fade/played → hand/plan), and the chorus couple
 
 ---
 
-## Optional bridge (off-structure Weird Al flourish)
+## Full Version (complete song for generation)
 
-If regenerating in Suno and you want the classic "the bridge does something weird"
-move, insert before the final chorus:
+Extended to a full Weird Al arc: verse 3 escalates (he's graduated to a bunk bed,
+with injuries), the bridge is the classic spoken-word weirdness, and the final
+chorus swaps the stab lines for the sounds his furniture now makes.
 
 ```
-[Bridge — spoken, dead calm, furniture audibly collapsing]
+[Verse]
+I've got a box from the Swedish store
+Instructions? Please — I've done this before
+Every screw's the same
+Manuals are for jerks
+I know how this works
+I know how this works
+
+[Prechorus]
+Allen wrench in hand
+I've got a plan
+
+[Chorus]
+I know how this works
+The peg
+The screw
+The quirk
+I need no plans
+These capable hands
+I know how this works
+
+[Verse 2]
+The shelf leans left and the legs point east
+I've got twelve screws left over, at least
+But the wobble's fine
+It's called "design"
+I planned it all
+I planned it all
+
+[Prechorus]
+Allen wrench in hand
+Just as I planned
+
+[Chorus]
+I know how this works
+The peg
+The screw
+The quirk
+I need no plans
+These capable hands
+I know how this works
+
+[Bridge — spoken, dead calm, over instrumental breakdown]
 Okay. That's... that's a load-bearing shelf now.
-Step one: insert dowel A into— nope. No. I don't need this.
+"Step one: insert dowel A into slot—" Nope. No. I don't need this.
 (sound of manual hitting trash can)
+(sound of something large collapsing in the next room)
+...That was always going to do that.
+
+[Verse 3]
+The bunk bed's done and it only took nine
+Hours — plus stitches, but I'm feeling fine
+Kids can sleep in shifts
+Gravity's a jerk
+I know how this works
+I know how this works
+
+[Prechorus]
+Band-aid on each hand
+Part of the plan
+
+[Final Chorus]
+I know how this works
+The crack
+The creak
+The lurch
+It's up to code
+(At least my own code)
+I know how this works
+
+[Outro — repeating, fading, with distant crashing]
+I know how this works
+I know how this works
+(I know how this works...)
 ```
+
+### New-section scansion
+| Line | Syl. | Matches template |
+|---|---|---|
+| The bunk bed's done and it only took nine | 9 | Verse line 1 |
+| Hours — plus stitches, but I'm feeling fine | 9 | Verse line 2 (enjambment joke) |
+| Kids can sleep in shifts | 5 | Verse line 3 |
+| Gravity's a jerk | 5 | Verse line 4 (rhymes with "works", like V1's "jerks") |
+| Band-aid on each hand / Part of the plan | 5/4 | Prechorus |
+| The crack / The creak / The lurch | 2/2/2 | Chorus stabs ("lurch" keeps the "works" near-rhyme) |
+| It's up to code / (At least my own code) | 4/5 | Chorus couplet |
